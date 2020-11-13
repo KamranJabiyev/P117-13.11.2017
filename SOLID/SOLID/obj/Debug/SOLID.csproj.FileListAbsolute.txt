@@ -1,0 +1,6 @@
+E:\P117\SOLID\SOLID\bin\Debug\SOLID.exe.config
+E:\P117\SOLID\SOLID\bin\Debug\SOLID.exe
+E:\P117\SOLID\SOLID\bin\Debug\SOLID.pdb
+E:\P117\SOLID\SOLID\obj\Debug\SOLID.csprojAssemblyReference.cache
+E:\P117\SOLID\SOLID\obj\Debug\SOLID.exe
+E:\P117\SOLID\SOLID\obj\Debug\SOLID.pdb
